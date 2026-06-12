@@ -37,3 +37,6 @@ next-env.d.ts
 # Dev log files
 dev-*.txt
 dev-output.txt
+
+.vercel
+.env*
