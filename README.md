@@ -2,7 +2,7 @@
 
 AI-powered lead discovery and outreach tool. Describe your service and ideal customer — Smartara Prospect finds 12 qualified companies, scores each one for fit and urgency, writes a full intelligence brief, and generates personalised cold outreach in one click.
 
-**Live:** [smartara.co](https://smartara.co) · **Email:** hello@smartara.co
+**Live:** [https://smartara-prospect.vercel.app](https://smartara-prospect.vercel.app/) · **Email:** hello@smartara.co
 
 ---
 
