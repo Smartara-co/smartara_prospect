@@ -1,0 +1,8 @@
+allowBuilds:
+  unrs-resolver: true
+  esbuild: true
+  lightningcss: true
+onlyBuiltDependencies:
+  - unrs-resolver
+  - esbuild
+  - lightningcss
